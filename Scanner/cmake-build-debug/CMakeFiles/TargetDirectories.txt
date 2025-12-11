@@ -1,3 +1,3 @@
-C:/Users/ya256/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/Scanner.dir
-C:/Users/ya256/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ya256/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ya256/CLionProjects/Compiler/Scanner/cmake-build-debug/CMakeFiles/Scanner.dir
+C:/Users/ya256/CLionProjects/Compiler/Scanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ya256/CLionProjects/Compiler/Scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir

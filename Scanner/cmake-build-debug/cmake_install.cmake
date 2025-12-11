@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ya256/CLionProjects/Scanner
+# Install script for directory: C:/Users/ya256/CLionProjects/Compiler/Scanner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/ya256/CLionProjects/Scanner/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/ya256/CLionProjects/Compiler/Scanner/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

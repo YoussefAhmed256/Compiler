@@ -1,10 +1,7 @@
 #include <bits/stdc++.h>
-using namespace std;
+#include "parser.h"
 
-struct Token {
-    string type;
-    string value;
-};
+using namespace std;
 
 bool isKeyword(const string& word) {
     static unordered_set<string> keywords = {
@@ -137,7 +134,9 @@ int main() {
         fout << left << setw(16) << t.type << " : " << t.value << endl;
     }
 
-    cout << "\n✅ Tokens written to tokens.txt successfully.\n";
+    cout << "\nTokens written to tokens.txt successfully.\n";
+
+    parse(tokens);
 
     fin.close();
     fout.close();

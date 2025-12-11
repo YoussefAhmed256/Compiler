@@ -44,7 +44,6 @@ Special Char     : ;
 Operator         : //
 String           : Another
 String           : comment
-Special Char     : }
 Keyword          : return
 Number           : 0
 Special Char     : ;
